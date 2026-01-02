@@ -1,2 +1,2 @@
-# TANZILEDUCATIONCENTRE
+# TanzilEducationCentre
 
