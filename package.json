@@ -28,7 +28,7 @@
     "jspdf": "^3.0.1",
     "jspdf-autotable": "^5.0.2",
     "lucide-react": "^0.323.0",
-    "next": "^15.3.3",
+    "next": "^16.1.1",
     "react": "^18",
     "react-dom": "^18",
     "sonner": "^2.0.6",
