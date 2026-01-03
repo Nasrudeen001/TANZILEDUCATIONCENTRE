@@ -130,14 +130,6 @@ export default function CBEProgramPage() {
                   </ul>
                 </CardContent>
               </Card>
-
-              <div className="text-center">
-                <Button asChild className="bg-teal-500 hover:bg-teal-600 text-lg px-8 py-6">
-                  <a href="/forms/Integrated%20Admission%20Form.pdf" download="TANZIL-Integrated-Admission-Form.pdf">
-                    Download Application Form
-                  </a>
-                </Button>
-              </div>
             </div>
           </div>
         </div>
