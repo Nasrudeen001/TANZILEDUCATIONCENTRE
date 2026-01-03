@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto pl-0 pr-4">
         <div className="flex items-center h-16 justify-between w-full">
           {/* Logo and Title */}
-          <div className="flex items-center flex-shrink-0">
+          <div className="flex items-center flex-shrink-0 mr-28">
             <Link href="/" className="flex items-center space-x-3 flex-shrink-0">
               <img src="/images/Tanzil Logo.jpeg" alt="Tanzil Logo" className="h-10 w-10 md:h-12 md:w-12 rounded-full flex-shrink-0" />
               <div className="flex flex-col min-w-0">
