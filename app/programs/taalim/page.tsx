@@ -133,14 +133,6 @@ export default function TaalimProgramPage() {
                   </ul>
                 </CardContent>
               </Card>
-
-              <div className="text-center">
-                <Button asChild className="bg-teal-500 hover:bg-teal-600 text-lg px-8 py-6">
-                  <a href="/forms/Ta'lim%20Admission%20Form.pdf" download="TANZIL-Talim-Admission-Form.pdf">
-                    Download Application Form
-                  </a>
-                </Button>
-              </div>
             </div>
           </div>
         </div>
