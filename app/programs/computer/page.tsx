@@ -127,14 +127,6 @@ export default function ComputerProgramPage() {
                   </ul>
                 </CardContent>
               </Card>
-
-              <div className="text-center">
-                <Button asChild className="bg-teal-500 hover:bg-teal-600 text-lg px-8 py-6">
-                  <a href="/forms/COMPUTER_ADMISSION_FORM_2025.pdf" download="TANZIL-Computer-Admission-Form-2025.pdf">
-                    Download Application Form
-                  </a>
-                </Button>
-              </div>
             </div>
           </div>
         </div>
