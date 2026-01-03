@@ -12,7 +12,7 @@ export default function TaalimProgramPage() {
       {/* Full Page Background Image */}
       <div 
         className="fixed inset-0 w-full h-full bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/Ta%27lim%20P.jpeg')" }}
+        style={{ backgroundImage: "url('/images/Taalim Class.jpeg')" }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-40"></div>
       </div>
