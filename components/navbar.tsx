@@ -31,7 +31,7 @@ export default function Navbar() {
           </button>
 
           {/* Navigation Links (Desktop) */}
-          <div className="hidden md:flex items-center space-x-8">
+          <div className="hidden md:flex items-center space-x-8 justify-end">
             <Link href="/" className="text-slate-300 hover:text-white">
               Home
             </Link>
