@@ -8,7 +8,7 @@ export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   return (
     <nav className="bg-slate-800 border-b border-slate-700">
-      <div className="container mx-auto px-4">
+      <div className="max-w-7xl mx-auto pl-0 pr-4">
         <div className="flex items-center h-16 justify-between w-full">
           {/* Logo and Title */}
           <div className="flex items-center flex-shrink-0">
