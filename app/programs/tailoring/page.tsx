@@ -125,14 +125,6 @@ export default function TailoringProgramPage() {
                   </ul>
                 </CardContent>
               </Card>
-
-              <div className="text-center">
-                <Button asChild className="bg-teal-500 hover:bg-teal-600 text-lg px-8 py-6">
-                  <a href="/forms/TAILORING%20FORM%202025.pdf" download="TANZIL-Tailoring-Admission-Form-2025.pdf">
-                    Download Application Form
-                  </a>
-                </Button>
-              </div>
             </div>
           </div>
         </div>
