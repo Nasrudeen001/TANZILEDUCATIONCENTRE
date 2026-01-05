@@ -3,7 +3,10 @@ import './globals.css'
 
 
 export const metadata: Metadata = {
-  title: 'Tanzil Education Centre',
+  title: {
+    default: 'Tanzil Education Centre',
+    template: '%s | Tanzil Education Centre',
+  }
   description: 'An integrated institution providing quality education through Competence Based Education, Tahfidh (Quran Memorization), Talim (Religious Education), and Computer Classes.',
 }
 
